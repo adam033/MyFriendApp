@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gender_list">
+        <item>𝕻𝖎𝖑𝖎𝖍 𝕶𝖊𝖑𝖆𝖒𝖎𝖓</item>
+        <item>𝕷𝖆𝖐𝖎-𝖑𝖆𝖐𝖎</item>
+        <item>𝕻𝖊𝖗𝖊𝖒𝖕𝖚𝖆𝖓</item>
+    </string-array>
+</resources>
